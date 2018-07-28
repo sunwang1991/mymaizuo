@@ -1,15 +1,17 @@
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+    <div class="foot">
+        我是尾
+    </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+    name:"Foot"
 }
 </script>
 
 <style>
 
 </style>
+
+
